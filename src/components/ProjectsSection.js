@@ -8,7 +8,7 @@ const projects = [
     title: "Ether Wager Hub",
     description:
       "Decentralized betting platform built on the Ethereum blockchain that uses smart contracts to place bets and select winners",
-    getImageSrc: () => require("../images/bets.JPG"),
+    getImageSrc: () => require("../images/bets.jpg"),
     liveLink: 'https://etherwagerhub.com',
     sourceLink: 'https://github.com/reesephillips/Ether-Wager-App',
   },
@@ -16,7 +16,7 @@ const projects = [
     title: "Little Lemon Website",
     description:
       "Website for a fictional restaurant that allows user to view the menu and make reservations",
-    getImageSrc: () => require("../images/littlelemon.JPG"),
+    getImageSrc: () => require("../images/littlelemon.jpg"),
     liveLink: "https://main.d1unmp802uoqzi.amplifyapp.com/",
     sourceLink: 'https://github.com/reesephillips/Little-Lemon_Reservation',
   },
@@ -24,7 +24,7 @@ const projects = [
     title: "On-Chain SVGs",
     description:
       "Generate a fully on-chain SVG on the Ethreum Blockchain that contain a random word or phrase",
-    getImageSrc: () => require("../images/funnynft.JPG"),
+    getImageSrc: () => require("../images/funnynft.jpg"),
     liveLink: "https://funny-name-nft.vercel.app/",
     sourceLink: 'https://github.com/reesephillips/nft-name-generator',
   },
@@ -32,7 +32,7 @@ const projects = [
     title: "Student Management System",
     description:
       "Create, read, update, and delete app that tracks student information and stores it in a MySQL database using Java Spring Boot",
-    getImageSrc: () => require("../images/ems.JPG"),
+    getImageSrc: () => require("../images/ems.jpg"),
     liveLink: "",
     sourceLink: 'https://github.com/reesephillips/Employee-Management-System',
   },
